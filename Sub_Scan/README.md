@@ -24,7 +24,7 @@
 
 就差不多是这样
 
-![test](.\img\text.png)
+![text.png](https://bu.dusays.com/2023/10/16/652c1495074b1.png)
 
 ### 之后可能会做
 
