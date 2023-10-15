@@ -2,6 +2,8 @@
 
 使用前需先在`/ProxyPool`中运行`docker-compose up`来启动代理池
 
+`ProxyPool`的原地址是 https://github.com/Python3WebSpider/ProxyPool
+
 ### agent.py
 
 这是一个测试代理池是否能用的脚本
